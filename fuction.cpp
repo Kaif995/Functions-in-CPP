@@ -2,7 +2,7 @@
 using namespace std;
 void greeting(){ //void mean no data type!
 	cout<<"hello guys"<<endl;
-}
+}    
 int radius(float pie,int c){
 	
 	float formula=c/(2*pie);
